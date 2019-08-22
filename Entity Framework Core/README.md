@@ -1,3 +1,5 @@
+## [EF Core | Microsoft Docs](https://docs.microsoft.com/en-us/ef/core/)
+
 ## Visual Studio Extensions:
 - [EF Core Power Tools](https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerTools)
 
