@@ -23,3 +23,15 @@
   + Google Hacking Database
   + Google Hacking Tools
 - Countermeasures & Pen Testing
+
+## Scanning Networks
+- TCP Communications
+- UDP Communications
+- TCP Header Flags
+- TCP 3-Way Handshake
+- Scanning Tools:
+  + Angry IP
+  + Nmap/Zenmap
+  + hping3
+  + Firewalk
+  + Fing - Network Tools (Adroid)
