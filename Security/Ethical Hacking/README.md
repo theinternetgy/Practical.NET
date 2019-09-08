@@ -67,3 +67,14 @@
   + ServerMask
   + Turn off unused services
   + Change the ServerSignature (httpd.conf, httpd.config: mod_headers)
+  
+## Enumeration
+- Defaults & NetBIOS (Network Basic Input/Output System)
+- SNMP (Simple Network Management Protocol)
+- LDAP (Lightweight Directory Access Protocol)
+- NTP (Network Time Protocol)
+- SMTP (Simple Mail Transfer Protocol)
+- DNS (Domain Name System)
+- IPSec (Internet Protocol Security)
+- VoIP (Voice over Internet Protocol)
+- RPC (Remote Procedure Call)
