@@ -118,8 +118,22 @@
   + Exploit Scanners
 - Remediating:
   + Host Vulnerabilities
+    + Looking at Servers
+    + Looking at Endpoints: Desktops, Laptops, Phones, Tablets, ...
+    + Looking at ICS (Industrial Control Systems) & SCADA (Supervisory Control and Data Acquisition)
   + Network Vulnerabilities
+    + Keeping up to date with Updates
+    + SSL & TLS
+    + DNS
+    + Internal IP Exposure: NAT
+    + VPNs
   + Virtual Environment Vulnerabilities
+    + Administration Interface Access
+    + Virtual Host Patching
+    + Virtual Guest Patching
+    + Virtual Network Concerns
+    + VM Escape
+  
 ## System Hacking
 
 ## Malware Threats
