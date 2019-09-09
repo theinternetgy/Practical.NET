@@ -116,7 +116,10 @@
   + MBSA (Microsoft Baseline Security Analyzer)
   + SCAP (Security Content Automation Protocol)
   + Exploit Scanners
-
+- Remediating:
+  + Host Vulnerabilities
+  + Network Vulnerabilities
+  + Virtual Environment Vulnerabilities
 ## System Hacking
 
 ## Malware Threats
