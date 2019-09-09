@@ -80,6 +80,15 @@
 - RPC (Remote Procedure Call)
 
 ## Vulnerability Analysis
+- Classification of Vulnerabilities
+- Types of Vulnerability Analysis
+- Tools:
+  + OpenVAS
+  + Nessus
+  + Nexpose
+  + MBSA (Microsoft Baseline Security Analyzer)
+  + SCAP (Security Content Automation Protocol)
+  + Exploit Scanners
 
 ## System Hacking
 
