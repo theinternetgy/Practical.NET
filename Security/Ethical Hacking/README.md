@@ -81,7 +81,34 @@
 
 ## Vulnerability Analysis
 - Classification of Vulnerabilities
+  + Misconfiguration
+  + Default Installation
+  + Buffer Overflows
+  + Unpatched Servers
+  + Design Flaws
+  + Operating Systems Flaws
+  + Application Flaws
+  + Open Services
+  + Default Passwords
 - Types of Vulnerability Analysis
+  + Identify weaknesses
+  + Additional security measures
+  + Network vulnerabilities
+  + Open ports
+  + Running services
+  + Application weaknesses
+  + Service weaknesses
+  + Configuration errors
+  + Password weaknesses
+- Types of Vulnerability Assessments
+  + Active assessments
+  + Passive assessments
+  + External assessments
+  + Internal assessment
+  + Host-based assessments
+  + Network assessments
+  + Application assessments
+  + Wireless network assessments
 - Tools:
   + OpenVAS
   + Nessus
