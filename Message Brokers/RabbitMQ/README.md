@@ -1,14 +1,14 @@
 ## REST API
 
 ### Using CURL
-```
+```powershell
 curl -i -u username:password -H "content-type:application/json" -XPUT -d "{""durable"":true}" http://localhost:15672/api/queues/%2f/QUEUE_NAME
 curl -i -u username:password -H "content-type:application/json" -XPUT -d"{""type"":""direct"",""durable"":true}" http://localhost:15672/api/exchanges/%2f/EXCHANGE_NAME
 curl -i -u username:password -H "content-type:application/json" -XPOST -d"{""routing_key"":""routing_key"",""arguments"":{}}" http://localhost:15672/api/bindings/%2f/e/EXCHANGE_NAME/q/QUEUE_NAME
 ```
 
 ### Using Powershell v5
-```
+```powershell
 $userpass  = "username" + ":" + "password"
 $bytes= [System.Text.Encoding]::UTF8.GetBytes($userpass)
 $encodedlogin=[Convert]::ToBase64String($bytes)
@@ -23,7 +23,7 @@ $response = Invoke-RestMethod -Uri $uri -Headers $headers -Method Put -ContentTy
 ```
 
 ### Using Powershell v4
-```
+```powershell
 function fixuri($uri){
   $UnEscapeDotsAndSlashes = 0x2000000;
   $SimpleUserSyntax = 0x20000;
