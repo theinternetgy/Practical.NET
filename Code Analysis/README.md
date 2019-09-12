@@ -1,0 +1,2 @@
+- [StyleCop](https://github.com/StyleCop/StyleCop)
+- [Code Quality and Security](https://www.sonarqube.org/)
