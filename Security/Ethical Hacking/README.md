@@ -1,4 +1,4 @@
-## Understanding Ethical Hacking
+# Understanding Ethical Hacking
 - Information Security
 - Technology Triangle
 - Security Threats
@@ -7,7 +7,7 @@
 - Hacking Phases
 - Attack Types
 
-## Reconnaissance/Footprinting
+# Reconnaissance/Footprinting
 - Looking for basic information
   + websites
   + whois
@@ -24,7 +24,7 @@
   + Google Hacking Tools
 - Countermeasures & Pen Testing
 
-## Scanning Networks
+# Scanning Networks
 - TCP Communications
 - UDP Communications
 - TCP Header Flags
@@ -68,7 +68,7 @@
   + Turn off unused services
   + Change the ServerSignature (httpd.conf, httpd.config: mod_headers)
   
-## Enumeration
+# Enumeration
 - Defaults & NetBIOS (Network Basic Input/Output System)
   + Change it
   + Be aware of your ports
@@ -107,7 +107,7 @@
 - RPC (Remote Procedure Call)
   + nmap -sR 192.168.0.1-254
 
-## Vulnerability Analysis
+# Vulnerability Analysis
 - Classification of Vulnerabilities
   + Misconfiguration
   + Default Installation
@@ -162,6 +162,10 @@
     + Virtual Network Concerns
     + VM Escape
   
-## System Hacking
+# System Hacking
 
-## Malware Threats
+# Malware Threats
+
+# Hacking Web Servers
+
+# Hacking Web Applications
