@@ -1,2 +1,3 @@
 - [Code Quality and Security](https://www.sonarqube.org/)
 - [OWASP Zed Attack Proxy (ZAP)](https://www.zaproxy.org/)
+- [Burp Suite Scanner](https://portswigger.net/burp)
