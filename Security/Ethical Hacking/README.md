@@ -5,5 +5,7 @@
 ## [Vulnerability Analysis](Vulnerability%20Analysis.md)
 ## [System Hacking](System%20Hacking.md)
 ## [Malware Threats](Malware%20Threats.md)
+## [Sniffing](Sniffing.md)
+## [Denial of Service](Denial%20of%20Service.md)
 ## [Hacking Web Servers](Hacking%20Web%20Servers.md)
 ## [Hacking Web Applications](Hacking%20Web%20Applications.md)
