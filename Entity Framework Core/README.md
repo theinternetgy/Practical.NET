@@ -1,5 +1,13 @@
 ## [EF Core | Microsoft Docs](https://docs.microsoft.com/en-us/ef/core/)
 
+## What's new in EF Core
+- [EF Core 3.0](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-3.0)
+- [EF Core 2.2](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-2.2)
+- [EF Core 2.1](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-2.1)
+- [EF Core 2.0](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-2.0)
+- [EF Core 1.1](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-1.1)
+- [EF Core 1.0](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-1.0)
+
 ## Visual Studio Extensions:
 - [EF Core Power Tools](https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerTools)
 
