@@ -24,6 +24,10 @@
 - [.NET Framework 4.5.1](https://docs.microsoft.com/en-us/dotnet/framework/whats-new/#v451)
 - [.NET Framework 4.5](https://docs.microsoft.com/en-us/dotnet/framework/whats-new/#v45)
 
+## What's new in the .NET Standard
+- [What's new in the .NET Standard](https://docs.microsoft.com/en-us/dotnet/standard/whats-new/whats-new-in-dotnet-standard?tabs=csharp)
+- [.NET Standard](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
+
 ## Support Policy
 - [.NET Core Support Policy](https://dotnet.microsoft.com/platform/support/policy/dotnet-core)
 - [.NET Framework Support Policy](https://dotnet.microsoft.com/platform/support/policy/dotnet-framework)
