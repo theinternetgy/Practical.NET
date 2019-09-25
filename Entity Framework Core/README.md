@@ -8,6 +8,9 @@
 - [EF Core 1.1](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-1.1)
 - [EF Core 1.0](https://docs.microsoft.com/en-us/ef/core/what-is-new/ef-core-1.0)
 
+## What's new in EF .Net Framework
+- [What's New in EF6](https://docs.microsoft.com/en-us/ef/ef6/what-is-new/)
+
 ## Visual Studio Extensions:
 - [EF Core Power Tools](https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerTools)
 
