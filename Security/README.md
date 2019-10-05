@@ -9,7 +9,7 @@
 - [Report URI](https://report-uri.com/)
 - [NWebsec](https://github.com/NWebsec/NWebsec/)
 - [Microsoft Security Assessment Tool](https://www.microsoft.com/en-us/download/details.aspx?id=12273)
-- [Microsoft Baseline Security Analyzer](https://www.microsoft.com/en-us/download/details.aspx?id=7558)
+- [Microsoft Baseline Security Analyzer](https://docs.microsoft.com/en-us/windows/security/threat-protection/mbsa-removal-and-guidance)
 - [IISCrypto](https://www.nartac.com/Products/IISCrypto)
 - [Nmap](https://nmap.org/)
 - [ZenMap](https://nmap.org/zenmap/)
