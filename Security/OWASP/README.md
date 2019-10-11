@@ -36,12 +36,17 @@
 - A2: [Broken Authentication](https://www.owasp.org/index.php/Top_10-2017_A2-Broken_Authentication)
 - A3: [Sensitive Data Exposure](https://www.owasp.org/index.php/Top_10-2017_A3-Sensitive_Data_Exposure)
 - A4: [XML External Entities (XXE)](https://www.owasp.org/index.php/Top_10-2017_A4-XML_External_Entities_(XXE))
+  + [XML External Entity Prevention · OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/XML_External_Entity_Prevention_Cheat_Sheet.html#net)
 - A5: [Broken Access Control](https://www.owasp.org/index.php/Top_10-2017_A5-Broken_Access_Control)
 - A6: [Security Misconfiguration](https://www.owasp.org/index.php/Top_10-2017_A6-Security_Misconfiguration)
 - A7: [Cross-Site Scripting (XSS)](https://www.owasp.org/index.php/Top_10-2017_A7-Cross-Site_Scripting_(XSS))
 - A8: [Insecure Deserialization](https://www.owasp.org/index.php/Top_10-2017_A8-Insecure_Deserialization)
+  + [Deserialization · OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/Deserialization_Cheat_Sheet.html#net-csharp)
 - A9: [Using Components with Known Vulnerabilities](https://www.owasp.org/index.php/Top_10-2017_A9-Using_Components_with_Known_Vulnerabilities)
+  + [SafeNuGet](https://github.com/OWASP/SafeNuGet)
+  + [CVE - Common Vulnerabilities and Exposures (CVE)](https://cve.mitre.org/)
 - A10: [Insufficient Logging & Monitoring](https://www.owasp.org/index.php/Top_10-2017_A10-Insufficient_Logging%26Monitoring)
+  + [Logging · OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html)
 
 ## Security Announcements:
 - [.NET Core Security Announcements](https://github.com/dotnet/announcements/issues?q=is%3Aopen+is%3Aissue+label%3ASecurity) 
