@@ -45,6 +45,7 @@
 - A9: [Using Components with Known Vulnerabilities](https://www.owasp.org/index.php/Top_10-2017_A9-Using_Components_with_Known_Vulnerabilities)
   + [SafeNuGet](https://github.com/OWASP/SafeNuGet)
   + [CVE - Common Vulnerabilities and Exposures (CVE)](https://cve.mitre.org/)
+  + [National Vulnerability Database](https://nvd.nist.gov/)
 - A10: [Insufficient Logging & Monitoring](https://www.owasp.org/index.php/Top_10-2017_A10-Insufficient_Logging%26Monitoring)
   + [Logging · OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html)
 
