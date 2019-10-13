@@ -35,6 +35,17 @@
 - A1: [Injection](https://www.owasp.org/index.php/Top_10-2017_A1-Injection)
 - A2: [Broken Authentication](https://www.owasp.org/index.php/Top_10-2017_A2-Broken_Authentication)
 - A3: [Sensitive Data Exposure](https://www.owasp.org/index.php/Top_10-2017_A3-Sensitive_Data_Exposure)
+  + Keep sensitive data out of the URL
+    + Web browsers cache the URL history
+    + Referer header
+  + [OWASP Cheat Sheet: Transport Layer Protection](https://cheatsheetseries.owasp.org/cheatsheets/Transport_Layer_Protection_Cheat_Sheet.html)
+    + Never use SSL 1,2 or 3
+    + Should only support TLS 1.2 and TLS 1.3
+    + Only Support Strong Ciphers
+  + [OWASP Cheat Sheet: HTTP Strict Transport Security (HSTS)](https://cheatsheetseries.owasp.org/cheatsheets/HTTP_Strict_Transport_Security_Cheat_Sheet.html)
+  + [OWASP Cheat Sheet: Password Storage](https://www.owasp.org/index.php/Password_Storage_Cheat_Sheet)
+  + [OWASP Cheat Sheet: Cryptographic Storage](https://www.owasp.org/index.php/Cryptographic_Storage_Cheat_Sheet)
+  + [OWASP Secure Headers Project](https://www.owasp.org/index.php/OWASP_Secure_Headers_Project)
 - A4: [XML External Entities (XXE)](https://www.owasp.org/index.php/Top_10-2017_A4-XML_External_Entities_(XXE))
   + [XML External Entity Prevention · OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/XML_External_Entity_Prevention_Cheat_Sheet.html#net)
 - A5: [Broken Access Control](https://www.owasp.org/index.php/Top_10-2017_A5-Broken_Access_Control)
