@@ -4,7 +4,7 @@
 - [OWASP .NET Project](https://www.owasp.org/index.php/Category:OWASP_.NET_Project)
 - [.Net Security Cheat Sheet](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/DotNet_Security_Cheat_Sheet.md)
 
-1. OWASP [Top 10 2010](https://www.owasp.org/index.php/Top_10_2010)
+## OWASP [Top 10 2010](https://www.owasp.org/index.php/Top_10_2010)
 
 - A1: [Injection](https://www.owasp.org/index.php/Top_10_2010-A1-Injection)
 - A2: [Cross-Site Scripting (XSS)](https://www.owasp.org/index.php/Top_10_2010-A2-Cross-Site_Scripting_(XSS))
@@ -17,7 +17,7 @@
 - A9: [Insufficient Transport Layer Protection](https://www.owasp.org/index.php/Top_10_2010-A9-Insufficient_Transport_Layer_Protection)
 - A10: [Unvalidated Redirects and Forwards](https://www.owasp.org/index.php/Top_10_2010-A10-Unvalidated_Redirects_and_Forwards)
 
-2. OWASP [Top 10 2013](https://www.owasp.org/index.php/Top_10_2013)
+## OWASP [Top 10 2013](https://www.owasp.org/index.php/Top_10_2013)
 
 - A1: [Injection](https://www.owasp.org/index.php/Top_10_2013-A1-Injection)
 - A2: [Broken Authentication and Session Management](https://www.owasp.org/index.php/Top_10_2013-A2-Broken_Authentication_and_Session_Management)
@@ -30,7 +30,7 @@
 - A9: [Using Components with Known Vulnerabilities](https://www.owasp.org/index.php/Top_10_2013-A9-Using_Components_with_Known_Vulnerabilities)
 - A10: [Unvalidated Redirects and Forwards](https://www.owasp.org/index.php/Top_10_2013-A10-Unvalidated_Redirects_and_Forwards)
 
-3. OWASP [Top 10 2017](https://www.owasp.org/index.php/Top_10-2017_Top_10)
+## OWASP [Top 10 2017](https://www.owasp.org/index.php/Top_10-2017_Top_10)
 
 - A1: [Injection](https://www.owasp.org/index.php/Top_10-2017_A1-Injection)
 - A2: [Broken Authentication](https://www.owasp.org/index.php/Top_10-2017_A2-Broken_Authentication)
