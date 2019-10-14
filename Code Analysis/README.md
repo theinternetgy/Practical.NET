@@ -1,2 +1,5 @@
 - [StyleCop](https://github.com/StyleCop/StyleCop)
-- [Code Quality and Security](https://www.sonarqube.org/)
+  + [StyleCop | Visual Studio Extension](https://marketplace.visualstudio.com/items?itemName=ChrisDahlberg.StyleCop)
+- [Code Quality and Security | SonarQube](https://www.sonarqube.org/)
+  + [GitHub](https://github.com/SonarSource/sonarqube)
+  + [SonarLint | Visual Studio Extension](https://www.sonarlint.org/visualstudio/)
