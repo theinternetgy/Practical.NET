@@ -4,6 +4,7 @@
   + [SonarLint | Visual Studio Extension](https://www.sonarlint.org/visualstudio/)
 - [Puma Scan](https://pumascan.com)
   + [GitHub](https://github.com/pumasecurity/puma-scan)
+  + [Visual Studio Extension](https://marketplace.visualstudio.com/items?itemName=PumaSecurity.PumaScan)
 - [Security Code Scan - Static Code Analyzer for .NET](https://security-code-scan.github.io/#Installation)
   + [GitHub](https://github.com/security-code-scan/security-code-scan)
   + [Visual Studio Extension](https://marketplace.visualstudio.com/items?itemName=JaroslavLobacevski.SecurityCodeScan)
