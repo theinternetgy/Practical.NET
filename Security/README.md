@@ -1,6 +1,17 @@
-- [Code Quality and Security](https://www.sonarqube.org/)
+## Static Code Analysis:
+- [Code Quality and Security | SonarQube](https://www.sonarqube.org/)
+  + [GitHub](https://github.com/SonarSource/sonarqube)
+- [Puma Scan](https://pumascan.com)
+  + [GitHub](https://github.com/pumasecurity/puma-scan)
+- [Security Code Scan - Static Code Analyzer for .NET](https://security-code-scan.github.io/#Installation)
+  + [GitHub](https://github.com/security-code-scan/security-code-scan)
+  + [Visual Studio Extension](https://marketplace.visualstudio.com/items?itemName=JaroslavLobacevski.SecurityCodeScan)
+- [PVS-Studio Analyzer](https://www.viva64.com/en/pvs-studio/)
+
+## Scanners:
 - [OWASP Zed Attack Proxy (ZAP)](https://www.zaproxy.org/)
 - [Burp Suite Scanner](https://portswigger.net/burp)
+
 - [SSL Labs](https://www.ssllabs.com/)
 - [Bad SSL](https://badssl.com/)
 - [Encrypt/Decrypt Web/App.config](https://msdn.microsoft.com/en-us/library/k6h9cz8h.aspx)
@@ -13,3 +24,4 @@
 - [IISCrypto](https://www.nartac.com/Products/IISCrypto)
 - [Nmap](https://nmap.org/)
 - [ZenMap](https://nmap.org/zenmap/)
+- [FuzzDB Project](https://github.com/fuzzdb-project/fuzzdb)
