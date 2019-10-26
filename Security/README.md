@@ -12,6 +12,9 @@
 
 ## Scanners:
 - [OWASP Zed Attack Proxy (ZAP)](https://www.zaproxy.org/)
+  + [GitHub](https://github.com/zaproxy/zaproxy)
+  + [FoxyProxy Basic](https://chrome.google.com/webstore/detail/foxyproxy-basic/dookpfaalaaappcdneeahomimbllocnb?hl=en)
+  + [OWASP Broken Web Applications Project](https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project)
 - [Burp Suite Scanner](https://portswigger.net/burp)
 
 ## Others:
