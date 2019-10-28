@@ -30,6 +30,8 @@
 - [Security Headers](https://securityheaders.com/)
 - [Report URI](https://report-uri.com/)
 - [NWebsec](https://github.com/NWebsec/NWebsec/)
+- [DotnetHttpSecurityCheck](https://github.com/CodeTherapist/DotnetHttpSecurityCheck)
+- [CertExpirationCheck](https://github.com/ardalis/CertExpirationCheck)
 
 ## Others:
 - [Encrypt/Decrypt Web/App.config](https://msdn.microsoft.com/en-us/library/k6h9cz8h.aspx)
