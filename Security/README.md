@@ -19,14 +19,18 @@
 - [Burp Suite Scanner](https://portswigger.net/burp)
 
 ## SSL/TLS:
+- [Does my site need HTTPS?](https://doesmysiteneedhttps.com/)
 - [SSL Labs](https://www.ssllabs.com/)
   + [SSL Labs CLI](https://github.com/ssllabs/ssllabs-scan)
   + [SSL Labs Research](https://github.com/ssllabs/research)
 - [Bad SSL](https://badssl.com/)
 - [IISCrypto](https://www.nartac.com/Products/IISCrypto)
 - [TestSSLServer](https://github.com/pornin/TestSSLServer)
+- [Let's Encrypt - Free SSL/TLS Certificates](https://letsencrypt.org/)
+- [HTTP vs HTTPS](https://www.httpvshttps.com/)
 
 ## Security Headers:
+- [Mozilla Observatory](https://observatory.mozilla.org/)
 - [Security Headers](https://securityheaders.com/)
 - [Report URI](https://report-uri.com/)
 - [NWebsec](https://github.com/NWebsec/NWebsec/)
