@@ -1,5 +1,7 @@
 - [StyleCop](https://github.com/StyleCop/StyleCop)
   + [StyleCop | Visual Studio Extension](https://marketplace.visualstudio.com/items?itemName=ChrisDahlberg.StyleCop)
+  + [StyleCop.MSBuild](https://www.nuget.org/packages/StyleCop.MSBuild/)
+  + [StyleCop.CSharp.Rules](https://www.nuget.org/packages/StyleCop.CSharp.Rules/)
 - [StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers)
   + [StyleCop.Analyzers | Nuget](https://www.nuget.org/packages/StyleCop.Analyzers/)
 - [Code Quality and Security | SonarQube](https://www.sonarqube.org/)
