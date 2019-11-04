@@ -7,3 +7,4 @@
 - [Code Quality and Security | SonarQube](https://www.sonarqube.org/)
   + [GitHub](https://github.com/SonarSource/sonarqube)
   + [SonarLint | Visual Studio Extension](https://www.sonarlint.org/visualstudio/)
+  + [SonarScanner for MSBuild](https://docs.sonarqube.org/latest/analysis/scan/sonarscanner-for-msbuild/)
