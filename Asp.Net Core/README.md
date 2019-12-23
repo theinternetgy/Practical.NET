@@ -6,3 +6,8 @@
 - [What's new in ASP.NET Core 2.1](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-2.1)
 - [What's new in ASP.NET Core 2.0](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-2.0)
 - [What's new in ASP.NET Core 1.1](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-1.1)
+
+## Developer Roadmap
+[https://github.com/MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
+![Roadmap](https://raw.githubusercontent.com/MoienTajik/AspNetCore-Developer-Roadmap/master/aspnetcore-developer-roadmap.png)
+![Backup](roadmap.png)
